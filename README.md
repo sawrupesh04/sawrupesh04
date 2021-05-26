@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sawrupesh04(Rupesh Saw)
-- 👀 I’m interested in Math, Python Programming, Data Visualization, ML and AI.
-- 🌱 I’m currently learning ML.
+- 👋 Hi, I’m @sawrupesh04(Rupesh Saw) with 3+ years experience in Python development and Data Analytics
+- 👀 Interested in Math, Python Programming, Data Visualization, ML and AI.
+- 🌱 Currently working on ML projects
 
 <!---
 sawrupesh04/sawrupesh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
